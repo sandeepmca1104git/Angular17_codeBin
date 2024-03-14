@@ -1,8 +1,8 @@
 export const firebaseConfig = {
-    apiKey: "AIzaSyAfByfe7zqJzjMG-UCUFHkXVCoJSVlJ_yA",
-    authDomain: "codebin-ng-yt.firebaseapp.com",
-    projectId: "codebin-ng-yt",
-    storageBucket: "codebin-ng-yt.appspot.com",
-    messagingSenderId: "634623449848",
-    appId: "1:634623449848:web:be72928bc84c80c73fb90d"
-  };
+  apiKey: "AIzaSyBngGBh46EwbQYrpUPG-JX5Vq9Gv0K9l8Q",
+  authDomain: "codebin-ng17.firebaseapp.com",
+  projectId: "codebin-ng17",
+  storageBucket: "codebin-ng17.appspot.com",
+  messagingSenderId: "331805797476",
+  appId: "1:331805797476:web:f9e36ad8ecdf4d6f88c371"
+};
